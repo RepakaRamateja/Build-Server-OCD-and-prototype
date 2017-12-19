@@ -1,0 +1,6 @@
+C:\Users\IEUser\Desktop\BuildServerCodePrototype\BuildServerCodePrototype\bin\Debug\BuildServerCodePrototype.exe.config
+C:\Users\IEUser\Desktop\BuildServerCodePrototype\BuildServerCodePrototype\bin\Debug\BuildServerCodePrototype.exe
+C:\Users\IEUser\Desktop\BuildServerCodePrototype\BuildServerCodePrototype\bin\Debug\BuildServerCodePrototype.pdb
+C:\Users\IEUser\Desktop\BuildServerCodePrototype\BuildServerCodePrototype\obj\Debug\BuildServerCodePrototype.exe
+C:\Users\IEUser\Desktop\BuildServerCodePrototype\BuildServerCodePrototype\obj\Debug\BuildServerCodePrototype.pdb
+C:\Users\IEUser\Desktop\BuildServerCodePrototype\BuildServerCodePrototype\obj\Debug\BuildServerCodePrototype.csprojResolveAssemblyReference.cache

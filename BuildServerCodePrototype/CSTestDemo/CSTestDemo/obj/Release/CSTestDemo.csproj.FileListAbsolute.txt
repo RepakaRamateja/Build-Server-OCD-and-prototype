@@ -1,0 +1,12 @@
+C:\Users\IEUser\Desktop\CSTestDemo\CSTestDemo\bin\Release\CSTestDemo.dll.config
+C:\Users\IEUser\Desktop\CSTestDemo\CSTestDemo\bin\Release\CSTestDemo.dll
+C:\Users\IEUser\Desktop\CSTestDemo\CSTestDemo\bin\Release\CSTestDemo.pdb
+C:\Users\IEUser\Desktop\CSTestDemo\CSTestDemo\obj\Release\CSTestDemo.csprojResolveAssemblyReference.cache
+C:\Users\IEUser\Desktop\CSTestDemo\CSTestDemo\obj\Release\CSTestDemo.dll
+C:\Users\IEUser\Desktop\CSTestDemo\CSTestDemo\obj\Release\CSTestDemo.pdb
+C:\Users\IEUser\Desktop\ConsoleApplication1\CSTestDemo\CSTestDemo\bin\Release\CSTestDemo.dll.config
+C:\Users\IEUser\Desktop\ConsoleApplication1\CSTestDemo\CSTestDemo\bin\Release\CSTestDemo.dll
+C:\Users\IEUser\Desktop\ConsoleApplication1\CSTestDemo\CSTestDemo\bin\Release\CSTestDemo.pdb
+C:\Users\IEUser\Desktop\ConsoleApplication1\CSTestDemo\CSTestDemo\obj\Release\CSTestDemo.csprojResolveAssemblyReference.cache
+C:\Users\IEUser\Desktop\ConsoleApplication1\CSTestDemo\CSTestDemo\obj\Release\CSTestDemo.dll
+C:\Users\IEUser\Desktop\ConsoleApplication1\CSTestDemo\CSTestDemo\obj\Release\CSTestDemo.pdb

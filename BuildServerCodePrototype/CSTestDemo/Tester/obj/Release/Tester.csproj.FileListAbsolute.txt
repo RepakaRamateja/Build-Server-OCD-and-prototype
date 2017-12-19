@@ -1,0 +1,16 @@
+C:\Users\IEUser\Desktop\CSTestDemo\Tester\bin\Release\Tester.exe.config
+C:\Users\IEUser\Desktop\CSTestDemo\Tester\bin\Release\Tester.exe
+C:\Users\IEUser\Desktop\CSTestDemo\Tester\bin\Release\Tester.pdb
+C:\Users\IEUser\Desktop\CSTestDemo\Tester\bin\Release\CSTestDemo.dll
+C:\Users\IEUser\Desktop\CSTestDemo\Tester\bin\Release\CSTestDemo.pdb
+C:\Users\IEUser\Desktop\CSTestDemo\Tester\obj\Release\Tester.csprojResolveAssemblyReference.cache
+C:\Users\IEUser\Desktop\CSTestDemo\Tester\obj\Release\Tester.exe
+C:\Users\IEUser\Desktop\CSTestDemo\Tester\obj\Release\Tester.pdb
+C:\Users\IEUser\Desktop\ConsoleApplication1\CSTestDemo\Tester\bin\Release\Tester.exe.config
+C:\Users\IEUser\Desktop\ConsoleApplication1\CSTestDemo\Tester\bin\Release\Tester.exe
+C:\Users\IEUser\Desktop\ConsoleApplication1\CSTestDemo\Tester\bin\Release\Tester.pdb
+C:\Users\IEUser\Desktop\ConsoleApplication1\CSTestDemo\Tester\bin\Release\CSTestDemo.dll
+C:\Users\IEUser\Desktop\ConsoleApplication1\CSTestDemo\Tester\bin\Release\CSTestDemo.pdb
+C:\Users\IEUser\Desktop\ConsoleApplication1\CSTestDemo\Tester\obj\Release\Tester.csprojResolveAssemblyReference.cache
+C:\Users\IEUser\Desktop\ConsoleApplication1\CSTestDemo\Tester\obj\Release\Tester.exe
+C:\Users\IEUser\Desktop\ConsoleApplication1\CSTestDemo\Tester\obj\Release\Tester.pdb

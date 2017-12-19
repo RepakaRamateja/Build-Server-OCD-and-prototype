@@ -1,0 +1,53 @@
+Build started 9/14/2017 2:35:28 PM.
+__________________________________________________
+Project "C:\Users\IEUser\Desktop\BuildServerCodePrototype\build.proj" (default targets):
+
+Target Rebuild:
+    __________________________________________________
+    Project "C:\Users\IEUser\Desktop\BuildServerCodePrototype\build.proj" is building "C:\Users\IEUser\Desktop\BuildServerCodePrototype\CSTestDemo\CSTestDemo.sln" (Build target(s)):
+
+    Target ValidateSolutionConfiguration:
+        Building solution configuration "Debug|Any CPU".
+    Target Build:
+        __________________________________________________
+        Project "C:\Users\IEUser\Desktop\BuildServerCodePrototype\CSTestDemo\CSTestDemo.sln" is building "C:\Users\IEUser\Desktop\BuildServerCodePrototype\CSTestDemo\CSTestDemo\CSTestDemo.csproj" (default targets):
+
+        Project file contains ToolsVersion="15.0". This toolset may be unknown or missing, in which case you may be able to resolve this by installing the appropriate version of MSBuild, or the build may have been forced to a particular ToolsVersion for policy reasons. Treating the project as if it had ToolsVersion="4.0". For more information, please see http://go.microsoft.com/fwlink/?LinkId=291333.
+        Target GenerateTargetFrameworkMonikerAttribute:
+          Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+        Target CoreCompile:
+          Skipping target "CoreCompile" because all output files are up-to-date with respect to the input files.
+        Target _CopyAppConfigFile:
+          Skipping target "_CopyAppConfigFile" because all output files are up-to-date with respect to the input files.
+        Target CopyFilesToOutputDirectory:
+            CSTestDemo -> C:\Users\IEUser\Desktop\BuildServerCodePrototype\CSTestDemo\CSTestDemo\bin\Debug\CSTestDemo.dll
+        __________________________________________________
+        Project "C:\Users\IEUser\Desktop\BuildServerCodePrototype\CSTestDemo\CSTestDemo.sln" is building "C:\Users\IEUser\Desktop\BuildServerCodePrototype\CSTestDemo\Tester\Tester.csproj" (default targets):
+
+        Project file contains ToolsVersion="15.0". This toolset may be unknown or missing, in which case you may be able to resolve this by installing the appropriate version of MSBuild, or the build may have been forced to a particular ToolsVersion for policy reasons. Treating the project as if it had ToolsVersion="4.0". For more information, please see http://go.microsoft.com/fwlink/?LinkId=291333.
+        Target ResolveProjectReferences:
+            __________________________________________________
+            Project "C:\Users\IEUser\Desktop\BuildServerCodePrototype\CSTestDemo\Tester\Tester.csproj" is building "C:\Users\IEUser\Desktop\BuildServerCodePrototype\CSTestDemo\CSTestDemo\CSTestDemo.csproj" (default targets):
+
+            __________________________________________________
+            Project "C:\Users\IEUser\Desktop\BuildServerCodePrototype\CSTestDemo\Tester\Tester.csproj" is building "C:\Users\IEUser\Desktop\BuildServerCodePrototype\CSTestDemo\CSTestDemo\CSTestDemo.csproj" (GetNativeManifest target(s)):
+
+            Project file contains ToolsVersion="15.0". This toolset may be unknown or missing, in which case you may be able to resolve this by installing the appropriate version of MSBuild, or the build may have been forced to a particular ToolsVersion for policy reasons. Treating the project as if it had ToolsVersion="4.0". For more information, please see http://go.microsoft.com/fwlink/?LinkId=291333.
+        Target GenerateTargetFrameworkMonikerAttribute:
+          Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+        Target CoreCompile:
+          Skipping target "CoreCompile" because all output files are up-to-date with respect to the input files.
+        Target GetCopyToOutputDirectoryItems:
+            __________________________________________________
+            Project "C:\Users\IEUser\Desktop\BuildServerCodePrototype\CSTestDemo\Tester\Tester.csproj" is building "C:\Users\IEUser\Desktop\BuildServerCodePrototype\CSTestDemo\CSTestDemo\CSTestDemo.csproj" (GetCopyToOutputDirectoryItems target(s)):
+
+        Target _CopyAppConfigFile:
+          Skipping target "_CopyAppConfigFile" because all output files are up-to-date with respect to the input files.
+        Target CopyFilesToOutputDirectory:
+            Tester -> C:\Users\IEUser\Desktop\BuildServerCodePrototype\CSTestDemo\Tester\bin\Debug\Tester.exe
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.26

@@ -1,0 +1,9 @@
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <!-- please change the solution path below for testing -->
+    <Solution Include="CSTestDemo\CSTestDemo.sln"/>
+  </ItemGroup>
+  <Target Name="Rebuild">
+    <MSBuild Projects="@(Solution)" Targets="Build" Properties="Configuration=Debug"/>
+  </Target>
+</Project>
